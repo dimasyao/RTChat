@@ -7,3 +7,5 @@ Scalable Architecture: Designed with scalability in mind to support real-time in
 
 ⚙️ Deployment
 RTChat is ready for deployment on cloud platforms. It has been successfully tested with Azure Container Instances, leveraging Docker images for both the frontend and backend.
+
+![image](https://github.com/user-attachments/assets/2301eceb-6640-4521-b14d-3056c80b2d98)
